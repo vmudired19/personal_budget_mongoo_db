@@ -1,0 +1,41 @@
+{
+    "myBudget": [
+   {
+     "title": "Entertainment",
+     "budget": 50
+   },
+   {
+     "title": "Utilities",
+     "budget": 150
+   },
+ 
+   {
+     "title":"Transportation",
+     "budget": 75
+   },
+ 
+   {
+     "title": "Clothing",
+     "budget": 60
+   },
+   {
+     "title": "Hobbies",
+     "budget": 45
+   },
+ 
+   {
+     "title":"Home Improvement",
+     "budget": 90
+   }, 
+ 
+   {
+     "title": "Charity",
+     "budget": 30
+   },
+   {
+     "title": "Insurance",
+     "budget": 80
+   }
+ ]
+ }
+ 
